@@ -17,7 +17,7 @@ function Count() {
 
   return (
     <div>
-      <p>this is a counter</p>
+      <h1>Counter App</h1>
       <h2>Count:{count}</h2>
       <button onClick={handleincrease}>Increment</button>
       <button onClick={handledecrease}>Decrement</button>
